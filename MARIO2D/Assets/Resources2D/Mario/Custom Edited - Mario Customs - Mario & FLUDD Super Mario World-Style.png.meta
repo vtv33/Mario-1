@@ -1,0 +1,3024 @@
+fileFormatVersion: 2
+guid: cd7d74caa8bc3064c9c8e37bea1d410c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2959574010151769494
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_0
+  - first:
+      213: -5490022411610567527
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_1
+  - first:
+      213: 4790877642447836162
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_2
+  - first:
+      213: 6320571039739142193
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_3
+  - first:
+      213: -1810335679666783138
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_4
+  - first:
+      213: 5945666666593477802
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_5
+  - first:
+      213: 6590908885486616315
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_6
+  - first:
+      213: 1313126914158832722
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_7
+  - first:
+      213: 7682739794920504374
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_8
+  - first:
+      213: -4383105170186956270
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_9
+  - first:
+      213: -6302330844396142877
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_10
+  - first:
+      213: 552628862091280453
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_11
+  - first:
+      213: 6215403564396960600
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_12
+  - first:
+      213: -4476200711841633171
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_13
+  - first:
+      213: -1192106762878838565
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_14
+  - first:
+      213: 6917295695209109567
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_15
+  - first:
+      213: -4424491011322202581
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_16
+  - first:
+      213: 2234116832425469171
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_17
+  - first:
+      213: 717093308383149309
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_18
+  - first:
+      213: 3616472862296158391
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_19
+  - first:
+      213: -1722867217040509494
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_20
+  - first:
+      213: 7743935577305807089
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_21
+  - first:
+      213: -5264026120383955882
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_22
+  - first:
+      213: -1604578004624772992
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_23
+  - first:
+      213: 2440413481984764392
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_24
+  - first:
+      213: -2078557258493853234
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_25
+  - first:
+      213: 1967868775845948540
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_26
+  - first:
+      213: -1179061861149700184
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_27
+  - first:
+      213: 1272142398616130044
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_28
+  - first:
+      213: 6770232594966094733
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_29
+  - first:
+      213: 4291714215298525636
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_30
+  - first:
+      213: -809832099666334998
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_31
+  - first:
+      213: 7324096186756493106
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_32
+  - first:
+      213: 7637046773165166227
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_33
+  - first:
+      213: -1684849941293696045
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_34
+  - first:
+      213: -6854466244499935787
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_35
+  - first:
+      213: 8468845088137873679
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_36
+  - first:
+      213: -8451466875265895807
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_37
+  - first:
+      213: 4865767608007409676
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_38
+  - first:
+      213: -1035747628930509036
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_39
+  - first:
+      213: -4114314697423473381
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_40
+  - first:
+      213: 263015735085464328
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_41
+  - first:
+      213: -6411339137168881663
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_42
+  - first:
+      213: 2296655991492060939
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_43
+  - first:
+      213: 1117764551933544032
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_44
+  - first:
+      213: -7810071983787922990
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_45
+  - first:
+      213: 8593734307581245848
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_46
+  - first:
+      213: 5623616614390614826
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_47
+  - first:
+      213: -8411810801048332694
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_48
+  - first:
+      213: -5488556035361516401
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_49
+  - first:
+      213: 7084019567373559022
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_50
+  - first:
+      213: -9154855227751101860
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_51
+  - first:
+      213: 1430229536064039786
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_52
+  - first:
+      213: 4972143021856897774
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_53
+  - first:
+      213: -6630424354328184328
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_54
+  - first:
+      213: -4442032507918744934
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_55
+  - first:
+      213: -8680547342544591770
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_56
+  - first:
+      213: -4368481591000650315
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_57
+  - first:
+      213: -3607142094644692332
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_58
+  - first:
+      213: 5838658757051675047
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_59
+  - first:
+      213: 4731309036107757758
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_60
+  - first:
+      213: -7000649714706021091
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_61
+  - first:
+      213: -1606739192088115749
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_62
+  - first:
+      213: 7576378583511714018
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_63
+  - first:
+      213: -6899437895726212934
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_64
+  - first:
+      213: -5027915650553494132
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_65
+  - first:
+      213: 3131333857354522491
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_66
+  - first:
+      213: -4555674822137842006
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_67
+  - first:
+      213: -2464762658693768322
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_68
+  - first:
+      213: -5361010780034189183
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_69
+  - first:
+      213: -2801936658320809920
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_70
+  - first:
+      213: 6054736223905407708
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_71
+  - first:
+      213: -8496422182718473742
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_72
+  - first:
+      213: 1980472297271379664
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_73
+  - first:
+      213: -2172680003042289139
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_74
+  - first:
+      213: 291027058276818778
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_75
+  - first:
+      213: 5384388381874510784
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_76
+  - first:
+      213: 2440506125119746443
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_77
+  - first:
+      213: -1689252822513023753
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_78
+  - first:
+      213: 389375267634643520
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_79
+  - first:
+      213: 981728157345647861
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_80
+  - first:
+      213: -594302343585490358
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_81
+  - first:
+      213: 5501052253844356499
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_82
+  - first:
+      213: -1032679043613258452
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_83
+  - first:
+      213: 1537322741339468577
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_84
+  - first:
+      213: 4864954252808667576
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_85
+  - first:
+      213: 8406904368192740891
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_86
+  - first:
+      213: 2453389908881862066
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_87
+  - first:
+      213: 4524368809877160216
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_88
+  - first:
+      213: 6187767031917256888
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_89
+  - first:
+      213: -4135369652911340481
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_90
+  - first:
+      213: 7959980028557463230
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_91
+  - first:
+      213: -2018348121022044814
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_92
+  - first:
+      213: -3148231354198362652
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_93
+  - first:
+      213: -5245775055779874862
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_94
+  - first:
+      213: -1501950296170091943
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_95
+  - first:
+      213: 7973924062975536737
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_96
+  - first:
+      213: 1057410835111952736
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_97
+  - first:
+      213: 826778473137989957
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_98
+  - first:
+      213: 3264318326806251041
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_99
+  - first:
+      213: -3354203621934297890
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_100
+  - first:
+      213: 8214248362337320730
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_101
+  - first:
+      213: 7894722340847956735
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_102
+  - first:
+      213: -4759699660366278986
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_103
+  - first:
+      213: 3266341996363924936
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_104
+  - first:
+      213: -962653710125572595
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_105
+  - first:
+      213: 8964544693805988785
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_106
+  - first:
+      213: 7220782294557332308
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_107
+  - first:
+      213: 6732879291741253071
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_108
+  - first:
+      213: -2186022649747841228
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_109
+  - first:
+      213: 7587836961452434109
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_110
+  - first:
+      213: 7428719264798743001
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_111
+  - first:
+      213: 5697464488755230491
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_112
+  - first:
+      213: -7853760783368770922
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_113
+  - first:
+      213: -5927368915192749550
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_114
+  - first:
+      213: -5206420465985004349
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_115
+  - first:
+      213: -8238346401716218443
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_116
+  - first:
+      213: -6268281575355732868
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_117
+  - first:
+      213: 1311303898060223960
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_118
+  - first:
+      213: -472533529552137172
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_119
+  - first:
+      213: 6954023759254838165
+    second: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_120
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 641
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951399b1e4821920800000000000000
+      internalID: 2959574010151769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 641
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc40b34b58fc3b0800000000000000
+      internalID: -5490022411610567527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 641
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d67825dd9c7240800000000000000
+      internalID: 4790877642447836162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 637
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e5417fdd27b750800000000000000
+      internalID: 6320571039739142193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 641
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cfe397a4560e6e0800000000000000
+      internalID: -1810335679666783138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 636
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46f2fe450438250800000000000000
+      internalID: 5945666666593477802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 641
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe356216bc977b50800000000000000
+      internalID: 6590908885486616315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 641
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c217f98f9293210800000000000000
+      internalID: 1313126914158832722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 646
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7ef973239e9a60800000000000000
+      internalID: 7682739794920504374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 590
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21214d502151c23c0800000000000000
+      internalID: -4383105170186956270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 589
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb7cafc7f9988a0800000000000000
+      internalID: -6302330844396142877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 562
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404499a5055ba700800000000000000
+      internalID: 552628862091280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 588
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd3977c9c814650800000000000000
+      internalID: 6215403564396960600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 528
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c24532b2751e1c0800000000000000
+      internalID: -4476200711841633171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 529
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd814481739c47fe0800000000000000
+      internalID: -1192106762878838565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 528
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38174f09cb2fff50800000000000000
+      internalID: 6917295695209109567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 528
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263b3efddc0992c0800000000000000
+      internalID: -4424491011322202581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 528
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e0771c6d210f10800000000000000
+      internalID: 2234116832425469171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 528
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcbcfc8090a3f900800000000000000
+      internalID: 717093308383149309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 528
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b00948ea403230800000000000000
+      internalID: 3616472862296158391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 528
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5722de4652718e0800000000000000
+      internalID: -1722867217040509494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 528
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f872d0e06cf77b60800000000000000
+      internalID: 7743935577305807089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 529
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf22e222c62f6b0800000000000000
+      internalID: -5264026120383955882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 529
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0807fe36ec46bb9e0800000000000000
+      internalID: -1604578004624772992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 529
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a6cac1271ed120800000000000000
+      internalID: 2440413481984764392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10a22af2b7723e0800000000000000
+      internalID: -2078557258493853234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 488
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c61e4b9364f4b10800000000000000
+      internalID: 1967868775845948540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 488
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af06f5fb7123afe0800000000000000
+      internalID: -1179061861149700184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 488
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15a3d75ce87a110800000000000000
+      internalID: 1272142398616130044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 488
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83a9b5cca2b4fd50800000000000000
+      internalID: 6770232594966094733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 488
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ec50275b3f8b30800000000000000
+      internalID: 4291714215298525636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 488
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaedabfef5e2c4f0800000000000000
+      internalID: -809832099666334998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 488
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe9685daa64a560800000000000000
+      internalID: 7324096186756493106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 486
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8d8fc39d3cf960800000000000000
+      internalID: 7637046773165166227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 489
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf955b7e53e98e0800000000000000
+      internalID: -1684849941293696045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 489
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddeca3644b00e0a0800000000000000
+      internalID: -6854466244499935787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_36
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 489
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f090540ecb1678570800000000000000
+      internalID: 8468845088137873679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 435
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182bbcc97ab56ba80800000000000000
+      internalID: -8451466875265895807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 434
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0042ea0cdda68340800000000000000
+      internalID: 4865767608007409676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 438
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d4a4e40940a1f0800000000000000
+      internalID: -1035747628930509036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 433
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b7edc49407e6c0800000000000000
+      internalID: -4114314697423473381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 436
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7b14ea6b66a300800000000000000
+      internalID: 263015735085464328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 423
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084d7206095607a0800000000000000
+      internalID: -6411339137168881663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 436
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072820c47c5fdf10800000000000000
+      internalID: 2296655991492060939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 432
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c58410f8138f00800000000000000
+      internalID: 1117764551933544032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9271809ec0d9390800000000000000
+      internalID: -7810071983787922990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 391
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b77932d3134770800000000000000
+      internalID: 8593734307581245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 391
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bccbdf3891b0e40800000000000000
+      internalID: 5623616614390614826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6658b5e4ae334b80800000000000000
+      internalID: -8411810801048332694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 391
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84537e8d5bb4d3b0800000000000000
+      internalID: -5488556035361516401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 392
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a737834e7f4260800000000000000
+      internalID: 7084019567373559022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a84c3ccab63f080800000000000000
+      internalID: -9154855227751101860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6e547f2239d310800000000000000
+      internalID: 1430229536064039786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 391
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab73e1cb9900540800000000000000
+      internalID: 4972143021856897774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 391
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f97b22ed200cf3a0800000000000000
+      internalID: -6630424354328184328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 391
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9204cc08faba52c0800000000000000
+      internalID: -4442032507918744934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 391
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642ba7fe20888780800000000000000
+      internalID: -8680547342544591770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 392
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda29063290063c0800000000000000
+      internalID: -4368481591000650315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a385a506bd0fdc0800000000000000
+      internalID: -3607142094644692332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 363
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f9ca7435170150800000000000000
+      internalID: 5838658757051675047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 363
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87cc3308cf8a140800000000000000
+      internalID: 4731309036107757758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 366
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15020eec22b8de90800000000000000
+      internalID: -7000649714706021091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 326
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c3e8b737b3b9e0800000000000000
+      internalID: -1606739192088115749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 327
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c71a2e24b42960800000000000000
+      internalID: 7576378583511714018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8de53e9c54040a0800000000000000
+      internalID: -6899437895726212934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c128da51493ab0800000000000000
+      internalID: -5027915650553494132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_66
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 325
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f15c08d8bb47b20800000000000000
+      internalID: 3131333857354522491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 326
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67842e2edf6c0c0800000000000000
+      internalID: -4555674822137842006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_68
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 327
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b19e8bb676bcdd0800000000000000
+      internalID: -2464762658693768322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 326
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b503791dd995b0800000000000000
+      internalID: -5361010780034189183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_70
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a4ad54758d19d0800000000000000
+      internalID: -2801936658320809920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_71
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 325
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2629a248eb60450800000000000000
+      internalID: 6054736223905407708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 300
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f0517a05a61a80800000000000000
+      internalID: -8496422182718473742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cc56bf0d0c7b10800000000000000
+      internalID: 1980472297271379664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 298
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad1107c0719d1e0800000000000000
+      internalID: -2172680003042289139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fdd9c419fe90400800000000000000
+      internalID: 291027058276818778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_76
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 275
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbde52a4b039ba40800000000000000
+      internalID: 5384388381874510784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 234
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b817de3f36b6ed120800000000000000
+      internalID: 2440506125119746443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 234
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4094a02819e88e0800000000000000
+      internalID: -1689252822513023753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 234
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0428faf2eb6576500800000000000000
+      internalID: 389375267634643520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 234
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0694ce8ccf9d00800000000000000
+      internalID: 981728157345647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 234
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a9761da2d90c7f0800000000000000
+      internalID: -594302343585490358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 235
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d314901e9a75c40800000000000000
+      internalID: 5501052253844356499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d017691ef2ba1f0800000000000000
+      internalID: -1032679043613258452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 234
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233bae53eaa55510800000000000000
+      internalID: 1537322741339468577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 234
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cf270e1ac38340800000000000000
+      internalID: 4864954252808667576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_86
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 234
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edece2bf25ba470800000000000000
+      internalID: 8406904368192740891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_87
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 234
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6e6e9f113c0220800000000000000
+      internalID: 2453389908881862066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_88
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 234
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c5912679c9ce30800000000000000
+      internalID: 4524368809877160216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_89
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 235
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02d42d45d5fd550800000000000000
+      internalID: 6187767031917256888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_90
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340a47f5373c96c0800000000000000
+      internalID: -4135369652911340481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0f5589a7877e60800000000000000
+      internalID: 7959980028557463230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275676dd3136df3e0800000000000000
+      internalID: -2018348121022044814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5724e634c3f44d0800000000000000
+      internalID: -3148231354198362652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b2ac41634337b0800000000000000
+      internalID: -5245775055779874862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 206
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2d7ec920082be0800000000000000
+      internalID: -1501950296170091943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 206
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea89700b119ae60800000000000000
+      internalID: 7973924062975536737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 170
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614f785d8dacae00800000000000000
+      internalID: 1057410835111952736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_98
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549645f04ae497b00800000000000000
+      internalID: 826778473137989957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126851f19303d4d20800000000000000
+      internalID: 3264318326806251041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_100
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 170
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0742c3997371d0800000000000000
+      internalID: -3354203621934297890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 169
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f33f55d5fdef170800000000000000
+      internalID: 8214248362337320730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_102
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 170
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff235961420bf8d60800000000000000
+      internalID: 7894722340847956735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_103
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 171
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be025a706622fdb0800000000000000
+      internalID: -4759699660366278986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c546386db0645d20800000000000000
+      internalID: 3266341996363924936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed04e0d87f3a2f0800000000000000
+      internalID: -962653710125572595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_106
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 169
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3b6f17e5786c70800000000000000
+      internalID: 8964544693805988785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45315835d3f553460800000000000000
+      internalID: 7220782294557332308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 149
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd22d32b0eff6d50800000000000000
+      internalID: 6732879291741253071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 91
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f52da6bffa9a1e0800000000000000
+      internalID: -2186022649747841228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_110
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 143
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a3fca3896d4960800000000000000
+      internalID: 7587836961452434109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_111
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91e62ffcc181760800000000000000
+      internalID: 7428719264798743001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_112
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1778ac14c5711f40800000000000000
+      internalID: 5697464488755230491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_113
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2964bd26d10390800000000000000
+      internalID: -7853760783368770922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_114
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 107
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2126e3d4061cdbda0800000000000000
+      internalID: -5927368915192749550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_115
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd3a5cb241fb7b0800000000000000
+      internalID: -5206420465985004349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_116
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 89
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55615a8938bad80800000000000000
+      internalID: -8238346401716218443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 89
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cabc43e179209a0800000000000000
+      internalID: -6268281575355732868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 200
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f67c92ffa23210800000000000000
+      internalID: 1311303898060223960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_119
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 200
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24559a22493179f0800000000000000
+      internalID: -472533529552137172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario & FLUDD Super Mario World-Style_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd20ad3c7a18060800000000000000
+      internalID: 6954023759254838165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
